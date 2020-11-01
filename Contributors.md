@@ -7,6 +7,7 @@
 [Brandon Wright]
 - [Amandou] (https://github.com/amandou)
 - [Ratul Dawar]
+- [KSHITIJ DHARIWAL](https://github.com/Zeus2k01)
 - [Amjad Ali] (https://github.com/AmjadKudsi)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - [Andreas Ivarsson](https://github.com/IvarssonAndreas)
